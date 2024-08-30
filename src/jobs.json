@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "90b2",
+      "title": "prakash",
+      "type": "Internship",
+      "location": "bangalore",
+      "description": "dfghjkl",
+      "salary": "Under $50K",
+      "company": {
+        "name": "neosoft",
+        "description": "dddddddddddddddddddddd",
+        "contactEmail": "info2@gmail.com",
+        "contactPhone": "9686733974"
+      }
+    },
+    {
+      "id": "9b1a",
+      "title": "backend developer",
+      "type": "Remote",
+      "location": "chennai",
+      "description": "aaaaaaaaaaaaaaaaaaaaaa",
+      "salary": "Under $50K",
+      "company": {
+        "name": "paytm",
+        "description": "jjk\n",
+        "contactEmail": "ani775711@gmail.com",
+        "contactPhone": "9621661739"
+      }
+    },
+    {
+      "id": "cc79",
+      "title": "db",
+      "type": "Remote",
+      "location": "delhi",
+      "description": "ssssssssssssssss",
+      "salary": "Under $50K",
+      "company": {
+        "name": "apple",
+        "description": "sssssssssss",
+        "contactEmail": "ani775711@gmail.com",
+        "contactPhone": "9621661739"
+      }
+    }
+  ]
+}
